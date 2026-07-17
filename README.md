@@ -84,4 +84,21 @@ Projetos utilizando **ESP8266 e Arduino**, com sensores, LEDs, buzzer, conexão 
 
 ---
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GuilhermeCA07/GuilhermeCA07/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GuilhermeCA07/GuilhermeCA07/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação da cobrinha comendo os commits"
+    src="https://raw.githubusercontent.com/GuilhermeCA07/GuilhermeCA07/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 > “Tecnologia se aprende melhor quando transformamos conhecimento em projetos.”
