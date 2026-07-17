@@ -67,13 +67,13 @@ Projetos utilizando **ESP8266 e Arduino**, com sensores, LEDs, buzzer, conexão 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
 > Substitua `GuilhermeCA07` pelo seu nome de usuário do GitHub nos dois links abaixo.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuilhermeCA07&show_icons=true&theme=tokyonight&locale=pt-br)
+## 📈 Estatísticas do GitHub
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCA07&layout=compact&theme=tokyonight&locale=pt-br)
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=GuilhermeCA07&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=GuilhermeCA07&layout=compact&theme=tokyonight&locale=pt-br)
 
 ---
 
